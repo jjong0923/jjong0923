@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![jjong0923's github stats](https://github-readme-stats.vercel.app/api?username=jjong0923&show_icons=true&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjong0923&layout=compact&theme=tokyonight)
 <!--
 **jjong0923/jjong0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
