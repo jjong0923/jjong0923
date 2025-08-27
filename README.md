@@ -2,22 +2,22 @@
 ![jjong0923's github stats](https://github-readme-stats.vercel.app/api?username=jjong0923&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjong0923&layout=compact&theme=tokyonight)
 
-# 🔭 I’m currently working on ... 📌스택 
-<div align=center> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS%20Modules-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <h3>언어</h2>
+# 🔭 I’m currently working on ...
+<div style="display:flex; gap:10px; flex-wrap:wrap;"> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 5px" />
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px" />
+  <img src="https://img.shields.io/badge/CSS%20Modules-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px" />
+  <h3>언어</h3>
   <div align=center>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 5px" />
   </div>
   <div align=center>
-    <h3>프레임워크</h2>
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <h3>프레임워크</h3>
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin: 5px" />
   </div>
   <div align=center>
-    <h3>스타일</h2>
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+    <h3>스타일</h3>
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="margin: 5px" />
   </div>
 </div>
 
