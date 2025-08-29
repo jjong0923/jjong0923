@@ -1,6 +1,5 @@
 <div>
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&fontColor=ffffff&text=프론트%20하는%20🥔&fontSize=50" />
-  // <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,10&height=200&text=프론트%20하는%20🥔&fontSize=50" />
 </div>
 
 
