@@ -3,8 +3,8 @@
 </div>
 
 
+# 🔭 I’m currently working on ...
 <div align=center> 
-  # 🔭 I’m currently working on ...
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 5px" />
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px" />
   <h3>언어</h3>
@@ -23,15 +23,15 @@
 </div>
 
 
+# 🌱 I’m currently learning ...
 <div align=center> 
-  # 🌱 I’m currently learning ...
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 5px"/ >
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" style="margin: 5px" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="margin: 5px" />
 </div>
 
+# 🛠️Tools
 <div align=center> 
-  # 🛠️Tools
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" style="margin: 5px" /> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"style="margin: 5px" /> 
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin: 5px" />
