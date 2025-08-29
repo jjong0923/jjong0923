@@ -1,6 +1,6 @@
-<div align=cente>
-  <img src="https://example.com/your-banner.svg" alt="프론트 하는 🥔">
-</div>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text="프론트 하는 🥔"%20render&fontSize=90)
+
+
 
 # 🔭 I’m currently working on ...
 <div align=center> 
