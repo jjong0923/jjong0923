@@ -1,5 +1,5 @@
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=프론트 하는 🥔&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=프론트하는🥔&fontSize=90" />
 </div>
 
 
