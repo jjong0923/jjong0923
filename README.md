@@ -1,4 +1,6 @@
-<h3 style="width:200px, height:200px">프론트 하는 🥔</h3>
+<div align=cente>
+  <img src="https://example.com/your-banner.svg" alt="프론트 하는 🥔">
+</div>
 
 # 🔭 I’m currently working on ...
 <div align=center> 
