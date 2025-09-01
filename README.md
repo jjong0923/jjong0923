@@ -14,6 +14,7 @@
   <div align=center>
     <h3>프레임워크</h3>
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin: 5px" />
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 5px" />
   </div>
   <div align=center>
     <h3>스타일</h3>
