@@ -3,7 +3,8 @@
 </div>
 
 # abuot me
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bergi4025@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bergi4025@gmail.com)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://jjong0923.tistory.com/)
 
 # 🔭 I’m currently working on ...
 <div align=center> 
