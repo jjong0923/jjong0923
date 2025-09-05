@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&fontColor=ffffff&text=프론트%20하는%20🥔&fontSize=50" />
 </div>
 
+# abuot me
+![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bergi4025@gmail.com)
 
 # 🔭 I’m currently working on ...
 <div align=center> 
