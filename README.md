@@ -3,14 +3,10 @@
 </div>
 
 # 💬 Ask me about ...
-<div align=center>
-  <a href="mailto:bergi4025@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
-<a href="https://jjong0923.tistory.com/">
-  <img src="https://img.shields.io/badge/Tech%20Blog-555263?style=for-the-badge&logoColor=white"/>
-</a>
-</div>
+<center>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bergi4025@gmail.com)
+  [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=for-the-badge&logoColor=white)](https://jjong0923.tistory.com/)
+</center>
 
 
 # 🔭 I’m currently working on ...
