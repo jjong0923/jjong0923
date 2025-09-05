@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&fontColor=ffffff&text=프론트%20하는%20🥔&fontSize=50" />
 </div>
 
-# abuot me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bergi4025@gmail.com)
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://jjong0923.tistory.com/)
+# 💬 Ask me about ...
+<div align=center>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bergi4025@gmail.com)
+  [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://jjong0923.tistory.com/)
+</div>
 
 # 🔭 I’m currently working on ...
 <div align=center> 
