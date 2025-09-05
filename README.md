@@ -3,8 +3,10 @@
 </div>
 
 # 💬 Ask me about ...
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bergi4025@gmail.com)
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=for-the-badge&logoColor=white)](https://jjong0923.tistory.com/)
+<div align=center>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bergi4025@gmail.com)
+  [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=for-the-badge&logoColor=white)](https://jjong0923.tistory.com/)
+</div>
 
 
 # 🔭 I’m currently working on ...
