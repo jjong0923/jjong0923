@@ -11,26 +11,25 @@
 </center>
 
 # 🔭 I’m currently working on ...
-
+<div align="left">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 5px" />
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px" />
-  <h3>언어</h3>
-  <div align=left>
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 5px" />
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 5px" />
-  </div>
-
-  <div align=center>
-    <h3>프레임워크</h3>
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin: 5px" />
-  </div>
-  <div align=center>
-    <h3>스타일</h3>
-    <img src="https://img.shields.io/badge/CSS%20Modules-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="margin: 5px" />
-  </div>
+</div>
+<h3>언어</h3>
+<div align=left>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 5px" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 5px" />
 </div>
 
+<div align=center>
+  <h3>프레임워크</h3>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin: 5px" />
+</div>
+<div align=center>
+  <h3>스타일</h3>
+  <img src="https://img.shields.io/badge/CSS%20Modules-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="margin: 5px" />
+</div>
 
 # 🌱 I’m currently learning ...
 <div align=center> 
