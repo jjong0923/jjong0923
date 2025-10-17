@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="margin: 5px" />
 </div>
 
+<br>
 ![jjong0923's github stats](https://github-readme-stats.vercel.app/api?username=jjong0923&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjong0923&layout=compact&theme=tokyonight)
 
