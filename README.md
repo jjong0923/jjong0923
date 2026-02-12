@@ -45,12 +45,11 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin: 5px" />
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="margin: 5px" />
 </div>
-<br>
-<br>
 
-![jjong0923's github stats](https://github-readme-stats.vercel.app/api?username=jjong0923&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjong0923&layout=compact&theme=tokyonight)
+  
+| GitHub Stats | Top Langs |
+| :---: | :---: |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jjong0923&theme=tokyonight" height="180"> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jjong0923&theme=tokyonight" height="180"> |
 
 <!--
 **jjong0923/jjong0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
